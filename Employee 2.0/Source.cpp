@@ -1,7 +1,3 @@
-/* Jan Carlos Barreto Torres #127484
-Anthony Encarnacion Torres #113862
-Jean Marco Ambert   #108124 */
-
 #include "Empleado.h"
 #include <iostream>
 #include <cstring>
